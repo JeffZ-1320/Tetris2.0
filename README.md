@@ -8,8 +8,6 @@ I used https://spring.io/guides/gs/serving-web-content/ to relearn how to serve 
 - @Controller usually goes with a @ResponseBody
 - @RestController = @Controller + @ResponseBody
     - I would need to figure what @ResponseBody is 
-### How to comment out html in vscode?
-- crtl + /
 ### Why is my css not working for my html page in SpringBoot?
 - While html files are stored in the ``Template`` folder, css files are stored in the ``static`` folder. 
 
